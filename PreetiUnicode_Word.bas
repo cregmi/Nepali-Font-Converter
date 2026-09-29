@@ -4,8 +4,7 @@ Option Explicit
 '===============================================================================
 ' PreetiUnicode_Word.bas - Unicode (Devanagari) <-> Preeti font converter for Word
 '
-' Author:    Chandan Regmi
-' Copyright: (c) 2026 Chandan Regmi. All rights reserved.
+' Author: Chandan Regmi
 ' Note: Compiled and debugged with assistance from AI.
 ' 
 ' Rebuilt on a validated longest-match tokenizer (Unicode->Preeti) and a
