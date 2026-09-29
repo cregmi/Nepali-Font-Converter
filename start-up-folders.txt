@@ -1,0 +1,13 @@
+================================================================================
+
+Microsoft word startup folder to put macro-enabled template(.dotm) file,
+
+	%APPDATA%\Microsoft\Word\STARTUP 
+
+================================================================================
+
+Microsoft excel startup folder to put add-in (.xlam) file,
+
+	%APPDATA%\Microsoft\Excel\XLSTART 
+
+================================================================================
